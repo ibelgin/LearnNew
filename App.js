@@ -63,7 +63,8 @@ const styles = StyleSheet.create({
     height : "40%",
     width:"100%",
     justifyContent:"center",
-    alignItems:"center"
+    alignItems:"center",
+    smarginTop:"5%"
   },
   imagestyle: {
     height : "100%", 
